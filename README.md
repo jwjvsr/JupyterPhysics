@@ -13,5 +13,5 @@ This is a growing reposotory of jupyter notebooks as an illustration to work wit
   * Nyquist-plots
   
 ## List of notebooks
-1 First try of scipy functions: [MyFirstTry.ipynb](https://github.com/jwjvsr/JupyterPhysics/blob/master/MyFirstTry.ipynb)
-2 ...
+1. First try of scipy functions: [MyFirstTry.ipynb](https://github.com/jwjvsr/JupyterPhysics/blob/master/MyFirstTry.ipynb) 
+2. ...
