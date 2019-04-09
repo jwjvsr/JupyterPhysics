@@ -12,3 +12,5 @@ This is a growing reposotory of jupyter notebooks as an illustration to work wit
   * Bode-plots
   * Nyquist-plots
   
+## List of notebooks
+1 First try of scipy functions: 
