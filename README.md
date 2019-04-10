@@ -14,4 +14,5 @@ This is a growing reposotory of jupyter notebooks as an illustration to work wit
   
 ## List of notebooks
 1. First try of scipy functions: [MyFirstTry.ipynb](https://github.com/jwjvsr/JupyterPhysics/blob/master/MyFirstTry.ipynb) 
-2. ...
+2. Chapter 5 example: [Chapter5Example.ipynb](https://github.com/jwjvsr/JupyterPhysics/blob/master/Chapter5Example.ipynb)
+3. ...
