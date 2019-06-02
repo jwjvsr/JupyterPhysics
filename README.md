@@ -21,4 +21,7 @@ This is a growing reposotory of jupyter notebooks as an illustration to work wit
 1. First try of scipy functions: [MyFirstTry.ipynb](https://github.com/jwjvsr/JupyterPhysics/blob/master/MyFirstTry.ipynb) 
 2. Chapter 5 example: [Chapter5Example.ipynb](https://github.com/jwjvsr/JupyterPhysics/blob/master/Chapter5Example.ipynb)
 3. Module M4 functions: [M4Functions.ipynb](https://github.com/jwjvsr/JupyterPhysics/blob/master/M4Functions.ipynb)
-4. ...
+4. Worked-out problems chapter 7:
+  * Problem 7.6
+  * Problem 7.7
+  * Problem 7.8
