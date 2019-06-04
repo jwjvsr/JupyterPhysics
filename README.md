@@ -25,3 +25,5 @@ This is a growing reposotory of jupyter notebooks as an illustration to work wit
    * Problem 7.6
    * Problem 7.7
    * Problem 7.8
+5. Worked-out problems chapter 9:
+   * Problem 9.6
