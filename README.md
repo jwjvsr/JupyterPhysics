@@ -2,7 +2,7 @@
 Reposotory of Jupyter notebooks related to physics calcualtions. 
 
 This reposotory is being modified to a kind of Jupyter Play-ground for Physics. 
-The original files are transfered to the jupyter physics organisation: [SystemsSignalsModels](https://github.com/jupyterphysics/SystemsSignalsModels).
+The original files are transfered to the jupyter physics organisation: [SystemsSignalsModels](https://github.com/jupyterphysics/SystemsSignalsModels).  
 *Text below is obsolete and has to be modified soon*
 ## Introduction
 The intention is to build a reposotory on *Models & Signals*, based on a course that is given at te University of Twente. 
